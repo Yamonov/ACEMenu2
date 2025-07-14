@@ -14,3 +14,9 @@ Latest version:
 ## All Release Notes
 
 See [Releases](https://github.com/Yamonov/ACEMenu2/releases) for the full version history and release notes.
+
+# メニュー内容
+<img width="546" height="863" alt="SS_CleanShot_20250714-195622" src="https://github.com/user-attachments/assets/ff0f6805-793e-44ec-927e-6c4168ab1ba4" />
+
+# 環境設定
+<img width="512" height="847" alt="SS_ 2025-07-14 19 59 10" src="https://github.com/user-attachments/assets/b991f7f6-983b-419f-a6b5-66b1021dc702" />
