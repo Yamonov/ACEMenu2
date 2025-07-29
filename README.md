@@ -2,7 +2,7 @@
 
 InDesign/Illustrator(AIRobin）/Photoshop/Acrobat/Bridgeが、カラー設定同期用ファイル「ACEConfigChache2.lst」に書き込んだカラー設定の内容をパースしてメニューバーに表示するアプリです。
 
-Latest version　ダウンロードはこちらから。：
+Latest version　ダウンロードはこちらから（latestページで最新版をDLできます）：
 [![Latest Release](https://img.shields.io/github/v/release/Yamonov/ACEMenu2?sort=semver)](https://github.com/Yamonov/ACEMenu2/releases/latest)
 
 # UI
@@ -32,7 +32,7 @@ Photoshopはカラー設定に対して非常にアクティブで、アプリ�
 ひとつのバージョンしかないときは表示させないようにもできます。
 - 設定名をローカライズして表示
 一般用 - 日本3など元々あるプリセットは、「Japan General Purpose 3」などをPhotoshop側でローカライズして表示しています。このアプリでもローカライズを行うために、
-```/Users/yamo/Library/Application Support/ACEMenu2/ColorTranslation.plist```
+```~/Library/Application Support/ACEMenu2/ColorTranslation.plist```
 でローカライズ処理をして表示させています。他の言語に対応させるときはこのplistを書き換えてください。
 - 起動中のアプリにマークを付ける
 メニュー内で起動中のアプリには、ACEエントリがある、ないに関わらずマークを付けます。
@@ -56,21 +56,6 @@ ACEConfigCache2.lstは同期用のキャッシュファイルです。削除し�
 ***このアプリは、ACEファイルを見るためのものです。ACEファイルがないとき、できるまで状態監視を続けます***
 - ACEファイルの詳細を見る
 ACEリストを開くを押すと、現在のACEエントリをリスト表示します。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## All Release Notes
 
