@@ -3,12 +3,12 @@
     <channel>
         <title>ACEMenu2</title>
         <item>
-            <title>2.8.8</title>
-            <pubDate>Tue, 29 Jul 2025 09:23:02 +0900</pubDate>
-            <sparkle:version>288</sparkle:version>
-            <sparkle:shortVersionString>2.8.8</sparkle:shortVersionString>
+            <title>2.8.9</title>
+            <pubDate>Sun, 03 Aug 2025 16:28:39 +0900</pubDate>
+            <sparkle:version>289</sparkle:version>
+            <sparkle:shortVersionString>2.8.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/latest/ACEMenu2.zip" length="1361536" type="application/octet-stream" sparkle:edSignature="YUvRerXF2ZOboU5skNqMvy/svWSf+fIfsXJFM5Ms8lg9knjpEmoAkyS4lsX5Ewg/Ushpzxa3/PlUrXQmtL2VCg=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/latest/ACEMenu2.zip" length="1365913" type="application/octet-stream" sparkle:edSignature="IsxjkQAsS1KI60bWKPEOKxt0yCcq0MCTqnQpcqnHFcVzKkCuwvwhtSc++Cq0/XEB7MqmkDmLZpraSn7dSCW0Dg=="/>
         </item>
     </channel>
 </rss>
