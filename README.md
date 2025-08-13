@@ -3,7 +3,7 @@
 InDesign/Illustrator(AIRobin）/Photoshop/Acrobat/Bridgeが、カラー設定同期用ファイル「ACEConfigChache2.lst」に書き込んだカラー設定の内容をパースしてメニューバーに表示するアプリです。
 
 Latest version　ダウンロードはこちらから（latestページで最新版をDLできます）：
-[![Latest Release](https://img.shields.io/github/v/release/Yamonov/ACEMenu2?sort=semver)](https://github.com/Yamonov/ACEMenu2/releases/latest)
+[Latest](https://github.com/Yamonov/ACEMenu2/releases/tag/latest)
 
 # UI
 
@@ -28,7 +28,10 @@ ACE未記載と表示されているアプリは、カラー設定同期用フ�
 このあたりの動作は、環境設定でACEConfigCache2.lstをリアルタイムで監視しながらアプリを切り替えてみるとよく分かります。
 
 ## 環境設定
-<img width="3362" height="1562" alt="SS_ACEMenu2_20250727-215143@2x" src="https://github.com/user-attachments/assets/e5ff46dc-6af4-4930-afcc-59b039768f87" />
+<img width="564" height="781" alt="SS_ACEMenu2_20250813-204957@2x" src="https://github.com/user-attachments/assets/bd85a52b-e22b-4c92-a3fb-6f53a585b61c" />
+<img width="1117" height="781" alt="SS_ACEMenu2_20250813-205002@2x" src="https://github.com/user-attachments/assets/65d1d0bb-967d-42cc-a293-b8eba1b2f6fb" />
+<img width="1117" height="781" alt="SS_ACEMenu2_20250813-205006@2x" src="https://github.com/user-attachments/assets/914540ab-ee0a-4d6d-838f-0648884aa608" />
+
 
 - ■詳細バージョン表示
   - メニューリスト内に、メジャーバージョン（2025等）に加えて詳細バージョンを表示します。
@@ -59,6 +62,8 @@ ACE未記載と表示されているアプリは、カラー設定同期用フ�
   - ACEConfigCache2.lstは同期用のキャッシュファイルです。削除しても、各アプリによって自動的に書き込まれていきます。
 存在しない場合はPhotoshopをアクティブにすればすぐに作られます。また、カラー設定を開いてOKするだけでも作られます。
 ***このアプリは、ACEファイルを見るためのものです。ACEファイルがないとき、できるまで状態監視を続けます***
+- ■ヘルプ表示
+  - 一度は目を通してください。   
 - ■ACEファイルの詳細を見る
   - ACEリストを開くを押すと、現在のACEエントリをリスト表示します。
 
