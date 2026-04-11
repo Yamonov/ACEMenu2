@@ -1,6 +1,6 @@
 # ACEMenu Plus（ACEMenu3）
 
-InDesign/Illustrator(AIRobin）/Photoshop/Acrobat/Bridgeが、カラー設定同期用ファイル「ACEConfigChache2.lst」に書き込んだカラー設定の内容をパースしてメニューバーに表示するアプリです。
+InDesign/Illustrator(AIRobin）/Photoshop/Acrobat/Bridgeが、カラー設定同期用ファイル「ACEConfigChache2.lst」に書き込んだカラー設定の内容をパースしてメニューバーに表示するアプリです。optionキーを押しながらメニュー選択すると、起動中のアプリならそのカラー設定を直接開きます。
 
 Plusバージョンから、SCRIPTMETAに対応しました。
 [SCRIPTMETA仕様](https://gist.github.com/Yamonov/31698801e781a6c6fa606634d34f771e)
