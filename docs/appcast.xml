@@ -3,12 +3,12 @@
     <channel>
         <title>ACEMenuPlus</title>
         <item>
-            <title>3.0.3</title>
-            <pubDate>Tue, 07 Apr 2026 22:07:41 +0900</pubDate>
-            <sparkle:version>303</sparkle:version>
-            <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
+            <title>3.0.5</title>
+            <pubDate>Sat, 11 Apr 2026 11:24:48 +0900</pubDate>
+            <sparkle:version>305</sparkle:version>
+            <sparkle:shortVersionString>3.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.0.3/ACEMenuPlus.zip" length="1956209" type="application/octet-stream" sparkle:edSignature="JW+oNlEqdh/CkSE3SyzNO9D2sUcs6VeYTWbkbnHD6Qj2FqBhdbD/n4t8DrBMXbW+BHJTeR7lOyb1fX4/M4BhAw=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.0.5/ACEMenuPlus.zip" length="2037015" type="application/octet-stream" sparkle:edSignature="9mv1CXLIu3KyMyFBxIk9VSmsWwKFA/chajEzHZeEzUqNvuddXIMf1Bsmq4q+e25ZaV00GAmyz37/SBsj19fXCg=="/>
         </item>
     </channel>
 </rss>
