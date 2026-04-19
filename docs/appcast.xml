@@ -3,20 +3,17 @@
     <channel>
         <title>ACEMenuPlus</title>
         <item>
-            <title>3.1.1</title>
-            <pubDate>Sat, 18 Apr 2026 00:43:11 +0900</pubDate>
-            <sparkle:version>311</sparkle:version>
-            <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
+            <title>3.1.2</title>
+            <pubDate>Sun, 19 Apr 2026 15:09:43 +0900</pubDate>
+            <sparkle:version>312</sparkle:version>
+            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
             <description><![CDATA[
 <ul>
-  <li>対応OSをVentura以降からSonoma以降に変更</li>
-  <li>常駐時のメモリ使用量を削減。放置しておくとどんどん解放します。</li>
-  <li>SCRIPTMETA v1.2仕様に対応。v1.1対応アプリはv1.2と互換性がなく、スクリプト更新チェックに失敗しますので、最新アプリでチェックしてください。</li>
-  <li>Acrobat対応を削除。</li>
+  <li>自動更新のバグ修正</li>
 </ul>
 ]]></description>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.1/ACEMenuPlus-3.1.1.zip" length="2249507" type="application/octet-stream" sparkle:edSignature="xmO+i7AMFcUOgCQzKjz6nPzrN64RBfXvvWXRi9t/wYqycaMrl1Kcvk2oUZYyBFRD+2XHda54Zt0PE9tWKenCDw=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.2/ACEMenuPlus-3.1.2.zip" length="2235913" type="application/octet-stream" sparkle:edSignature="JoI+HqDV0w89TUjRiQT9umSQPpYmBt2CiIG0fbsJOYN1pUAT770CcpsUilb3koUF/Hk4N4uA2Cx9Rmv/5xwRDA=="/>
         </item>
     </channel>
 </rss>
