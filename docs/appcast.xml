@@ -3,17 +3,17 @@
     <channel>
         <title>ACEMenuPlus</title>
         <item>
-            <title>3.1.2</title>
-            <pubDate>Sun, 19 Apr 2026 15:09:43 +0900</pubDate>
-            <sparkle:version>312</sparkle:version>
-            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+            <title>3.1.4</title>
+            <pubDate>Sat, 25 Apr 2026 16:10:17 +0900</pubDate>
+            <sparkle:version>314</sparkle:version>
+            <sparkle:shortVersionString>3.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
 <ul>
-  <li>自動更新のバグ修正</li>
+  <li>SCRIPTMETAのUIを変更</li>
 </ul>
 ]]></description>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.2/ACEMenuPlus-3.1.2.zip" length="2235913" type="application/octet-stream" sparkle:edSignature="JoI+HqDV0w89TUjRiQT9umSQPpYmBt2CiIG0fbsJOYN1pUAT770CcpsUilb3koUF/Hk4N4uA2Cx9Rmv/5xwRDA=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.4/ACEMenuPlus-3.1.4.zip" length="2275020" type="application/octet-stream" sparkle:edSignature="Qmb8tvnMAt9riLpoqfqeXktK2iwprQ9ErCKyWP49AVRn+wxpzzCwFcT3S1gojnB+w/Omv/UavpRqk6M5m/LUCQ=="/>
         </item>
     </channel>
 </rss>
