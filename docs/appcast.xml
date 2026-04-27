@@ -3,17 +3,24 @@
     <channel>
         <title>ACEMenuPlus</title>
         <item>
-            <title>3.1.4</title>
-            <pubDate>Sat, 25 Apr 2026 16:10:17 +0900</pubDate>
-            <sparkle:version>314</sparkle:version>
-            <sparkle:shortVersionString>3.1.4</sparkle:shortVersionString>
+            <title>3.1.5</title>
+            <pubDate>Mon, 27 Apr 2026 11:01:54 +0900</pubDate>
+            <sparkle:version>315</sparkle:version>
+            <sparkle:shortVersionString>3.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
 <ul>
-  <li>SCRIPTMETAのUIを変更</li>
+  <li>SCRIPTMETA v1.3仕様に対応
+    <ul>
+      <li>SCRIPTMETA v1.3では、アップデート検出用の従来仕様をUpdate Profileとし、ネットワークに接続させないローカル開発用のサブセットを Local Subsetとして分けました。SCRIPTMETAのVersion、Discription、NameやTargetをクライアントアプリで有効利用するためです。特に、配布サイトのないローカル保存したスクリプトにDiscriptionタグで使用説明をスクリプト自体に埋め込むことで、対応アプリでスクリプトのヘルプとして見ることができるようになります。</li>
+      <li>姉妹アプリのScripta!はこのバージョンからローカルスクリプトの情報表示に対応します。ウインドウ中の吹き出しマークがオンのとき、META情報を持つスクリプトに色がつき、マウスオーバーやコマンドキー＋マウスオーバーでスクリプトの情報をポップアップ表示します。</li>
+      <li>ACEMenu Plusはアップデート検知を重視しているため、Local Subsetスクリプトは情報表示に留め、特にこれまでと動作は変わりません。</li>
+    </ul>
+  </li>
+  <li>細かな動作最適化とUI調整</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.4/ACEMenuPlus-3.1.4.zip" length="2275020" type="application/octet-stream" sparkle:edSignature="Qmb8tvnMAt9riLpoqfqeXktK2iwprQ9ErCKyWP49AVRn+wxpzzCwFcT3S1gojnB+w/Omv/UavpRqk6M5m/LUCQ=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.5/ACEMenuPlus-3.1.5.zip" length="2297214" type="application/octet-stream" sparkle:edSignature="cTRHDbkhXbeMI9IewDgm+DHhBLhjqhlbinJXFUCZyeLMnCbj4csGkhvTqdNh5MkyQt1atKwwwpFat6tue1K9Cg=="></enclosure>
         </item>
     </channel>
 </rss>
