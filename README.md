@@ -8,6 +8,14 @@ Plusバージョンから、SCRIPTMETAに対応しました。
 Latest version　ダウンロードはこちらから（latestページで最新版をDLできます）：
 [Latest](https://github.com/Yamonov/ACEMenu2/releases/tag/v3.0.3)
 
+Illustrator、InDesign、Photoshop統合タブ型スクリプトランチャーの[Scripta!](https://github.com/Yamonov/Scripta) もどうぞ。
+
+## ドネーションウェア
+
+無料で使用できますが、気に入ったらこちらからご寄付お願いいます（クリックでジャンプ）
+
+[<img height="300" alt="qr_eVqcN75Gm8vX6nHfDj77O00" src="https://github.com/user-attachments/assets/a6af0494-29e4-44b1-b329-1369f3b3b134" />](https://donate.stripe.com/eVqcN75Gm8vX6nHfDj77O00)
+
 # UI
 
 ## メニューバー
