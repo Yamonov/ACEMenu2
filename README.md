@@ -10,12 +10,6 @@ Latest version　ダウンロードはこちらから（latestページで最新
 
 Illustrator、InDesign、Photoshop統合タブ型スクリプトランチャーの[Scripta!](https://github.com/Yamonov/Scripta) もどうぞ。
 
-## ドネーションウェア
-
-無料で使用できますが、気に入ったらこちらからご寄付お願いします（クリックでジャンプ）
-
-[<img width="250" height="28" alt="image" src="https://github.com/user-attachments/assets/19fb452d-4bad-4768-879e-612e892b8a10" />
-](https://donate.stripe.com/eVqcN75Gm8vX6nHfDj77O00)
 
 # UI
 
