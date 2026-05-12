@@ -10,6 +10,11 @@ Latest version　ダウンロードはこちらから（latestページで最新
 
 Illustrator、InDesign、Photoshop統合タブ型スクリプトランチャーの[Scripta!](https://github.com/Yamonov/Scripta) もどうぞ。
 
+## 支援
+
+気に入ったらご支援お願いします。
+[<img width="250" height="28" alt="image" src="https://github.com/user-attachments/assets/da9369be-e2f4-4b0c-a381-ee951bc17fe2" />](https://ko-fi.com/iwashiya)
+
 
 # UI
 
