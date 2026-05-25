@@ -3,17 +3,28 @@
     <channel>
         <title>ACEMenuPlus</title>
         <item>
-            <title>3.1.6</title>
-            <pubDate>Sun, 03 May 2026 21:28:04 +0900</pubDate>
-            <sparkle:version>316</sparkle:version>
-            <sparkle:shortVersionString>3.1.6</sparkle:shortVersionString>
+            <title>3.1.7</title>
+            <pubDate>Mon, 25 May 2026 18:36:44 +0900</pubDate>
+            <sparkle:version>317</sparkle:version>
+            <sparkle:shortVersionString>3.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
+<h2>Version 3.1.7</h2>
 <ul>
-<li>微細なバグ修正</li>
+  <li>隠し機能を表に出しました。
+    <ul>
+      <li>shiftを押しながらメニュー選択で、Adobeアプリ以外が前面にあるときに表示するデフォルトアプリを選択できます。</li>
+      <li>optionを押しながらメニュー選択で、選択したアプリのカラー設定ダイアログを表示します。
+        <ul>
+          <li>Bridgeのみ、アクセシビリティ権限が必要です。</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>複数のACEエントリがあるのにメジャーバージョン表示がされないバグを修正しました。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.6/ACEMenuPlus-3.1.6.zip" length="2305396" type="application/octet-stream" sparkle:edSignature="ppl7k4xrjIwK/pjnu/oV0jJ9ibj+6TQ7Ve5/tom1xVlCCEBP4fb7A2nF4168/gMbM7sEGC+71BYWQot9Ha4EAw=="/>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.7/ACEMenuPlus-3.1.7.zip" length="2366607" type="application/octet-stream" sparkle:edSignature="WvmG5SEEMcJvwOsefFc/WWbtQfxkb63YnjT4tckI5YHzFdeusijXo33VY6i/EYC9GeFdlrflBgdSllO1AnCwCw=="/>
         </item>
     </channel>
 </rss>
