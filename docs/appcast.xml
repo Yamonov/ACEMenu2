@@ -1,19 +1,36 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>ACEMenuPlus</title>
+        <title>ACEMenu Plus Updates</title>
+        <link>https://yamonov.github.io/ACEMenu2/appcast.xml</link>
+        <description>ACEMenu Plus release feed</description>
+        <language>ja</language>
+        <lastBuildDate>Mon, 08 Jun 2026 15:50:54 +0900</lastBuildDate>
         <item>
-            <title>3.1.9.1</title>
-            <pubDate>Tue, 02 Jun 2026 23:30:44 +0900</pubDate>
-            <sparkle:version>320</sparkle:version>
-            <sparkle:shortVersionString>3.1.9.1</sparkle:shortVersionString>
+            <title>Version 3.2 Now powered by SCRIPTMETAKit</title>
+            <sparkle:version>330</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Version 3.1.9.1 Bugfix</h1>
-<ul>
-<li>オートメーション/アクセシビリティ権限を取得する経路を修正し、確実に認証できるようにしました。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.1.9.1/ACEMenuPlus-3.1.9.1.zip" length="2410684" type="application/octet-stream" sparkle:edSignature="uxuyc9wba23ryAtJyIII1vjqi6tkGr0QT+e/Nm8mRVcSadKdn11Q1b0cvvt+RjQu54IARV+/vgbr7OLn/y5JDw=="/>
+            <pubDate>Mon, 08 Jun 2026 15:50:54 +0900</pubDate>
+            <description><![CDATA[
+                <h1>Version 3.2 Now powered by SCRIPTMETAKit</h1>
+                <h2>自作Rustライブラリ「SCRIPTMETAKit」を搭載しました。</h2>
+                <ul>
+                    <li>Scripta!と同じライブラリを使用するため、全く同じ動作になります。</li>
+                    <li>Scripta!で記録している登録フォルダをボタンで登録できます。</li>
+                </ul>
+                <h2>その他</h2>
+                <ul>
+                    <li>起動項目から起動したとき、登録スクリプトのスキャン動作を遅延させ、OS起動動作に全く影響しないようにしました。</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2/ACEMenuPlus-3.2.zip"
+                sparkle:edSignature="+ukIpGSwVIybK2o3afTToeBYO19ZAtzoNpswQ2VKzMXoAMjFsazYhZ2GdChQffRh1GJ3klHqOVB7Mfi91UmnCQ=="
+                length="7310043"
+                type="application/octet-stream" />
         </item>
     </channel>
 </rss>
