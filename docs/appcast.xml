@@ -7,26 +7,25 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
-            <title>Version 3.2.1</title>
+            <title>Version 3.2.2</title>
             <description><![CDATA[
-<h1>Version 3.2.1</h1>
+<h1>Version 3.2.2</h1>
 <ul>
-  <li>SCRIPTMETAKitを更新
+  <li>バグフィックス
     <ul>
-      <li>AppleScriptでのMETA情報取得のバグを修正</li>
-      <li>ACEMenuPlusのSCRIPTMETAKitライブラリを更新</li>
+      <li>SCRIPTMETAKitのバグを修正し、常駐時にごく僅かにCPUを使用していたのを修正しました。</li>
     </ul>
   </li>
 </ul>
 ]]></description>
-            <pubDate>Wed, 17 Jun 2026 15:14:35 +0900</pubDate>
-            <sparkle:version>331</sparkle:version>
-            <sparkle:shortVersionString>3.2.1</sparkle:shortVersionString>
+            <pubDate>Sat, 20 Jun 2026 02:03:35 +0900</pubDate>
+            <sparkle:version>332</sparkle:version>
+            <sparkle:shortVersionString>3.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.1/ACEMenuPlus-3.2.1.zip"
-                sparkle:edSignature="4BDfKwTsorpx+0+Ns5gEux5lBOV+sb1iI9MYXg53lVt6POkHEcUx0KC1VvjTgKHImhAhztS6quU0QmEWFJKNBw=="
-                length="7728602"
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.2/ACEMenuPlus-3.2.2.zip"
+                sparkle:edSignature="dqA570c+m8vegqMohg1FZUhxJQz2d3xpiohDrQKdlKeRJ1XcNhXD8jGbHIP/MDItj5ovjAOwN3ERs65SRWAYBg=="
+                length="7721226"
                 type="application/octet-stream" />
         </item>
     </channel>
