@@ -7,25 +7,36 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
-            <title>Version 3.2.2</title>
+            <title>Version 3.2.3</title>
             <description><![CDATA[
-<h1>Version 3.2.2</h1>
+<h1>Version 3.2.3</h1>
+<h2>日本語</h2>
 <ul>
   <li>バグフィックス
     <ul>
-      <li>SCRIPTMETAKitのバグを修正し、常駐時にごく僅かにCPUを使用していたのを修正しました。</li>
+      <li>メニューからPhotoshopでカラー設定を開いたとき、キャンセルボタンを押しても再度カラー設定が開いてしまう問題を修正</li>
     </ul>
   </li>
+  <li>本体のアップデートあり時の表示を追加</li>
+</ul>
+<h2>English</h2>
+<ul>
+  <li>Bug fixes
+    <ul>
+      <li>Fixed an issue where opening Color Settings for Photoshop from the menu would open Color Settings again after pressing Cancel.</li>
+    </ul>
+  </li>
+  <li>Added display for when an ACEMenu Plus update is available.</li>
 </ul>
 ]]></description>
-            <pubDate>Sat, 20 Jun 2026 02:03:35 +0900</pubDate>
-            <sparkle:version>332</sparkle:version>
-            <sparkle:shortVersionString>3.2.2</sparkle:shortVersionString>
+            <pubDate>Sun, 28 Jun 2026 15:20:10 +0900</pubDate>
+            <sparkle:version>334</sparkle:version>
+            <sparkle:shortVersionString>3.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.2/ACEMenuPlus-3.2.2.zip"
-                sparkle:edSignature="dqA570c+m8vegqMohg1FZUhxJQz2d3xpiohDrQKdlKeRJ1XcNhXD8jGbHIP/MDItj5ovjAOwN3ERs65SRWAYBg=="
-                length="7721226"
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.3/ACEMenuPlus-3.2.3.zip"
+                sparkle:edSignature="ZmrEf2iWloDL6ru7EXdGc9hlHTDV2ew8HY36/0lhcv4i6D1OqCExvVhgQqkchDuui4fuYqrUjkKYXv6OxtavAA=="
+                length="7754532"
                 type="application/octet-stream" />
         </item>
     </channel>
