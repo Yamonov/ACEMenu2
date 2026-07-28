@@ -7,26 +7,28 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
-            <title>Version 3.2.5</title>
+            <title>Version 3.2.6</title>
             <description><![CDATA[
-<h1>Version 3.2.5</h1>
+<h1>Version 3.2.6</h1>
 <h2>日本語</h2>
 <ul>
-  <li>ライブラリSCRIPTMETAKitを1.2.0にバージョンアップ。動作を安定させ、高速かつ低コストで動作させました。</li>
+  <li>SCRIPTMETAKitを1.2.1にしました。</li>
+  <li>Scripta!の登録フォルダと同期するオプションを追加。ACEMenuPlus側でフォルダ管理をしなくても、スクリプトのアップデートチェックを行えます。</li>
 </ul>
 <h2>English</h2>
 <ul>
-  <li>Updated the SCRIPTMETAKit library to version 1.2.0. This improves stability and enables faster operation with lower resource usage.</li>
+  <li>Updated SCRIPTMETAKit to version 1.2.1.</li>
+  <li>Added an option to synchronize with Scripta!'s registered folders. This allows ACEMenu Plus to check for script updates without managing folders separately.</li>
 </ul>
 ]]></description>
-            <pubDate>Tue, 14 Jul 2026 00:27:34 +0900</pubDate>
-            <sparkle:version>340</sparkle:version>
-            <sparkle:shortVersionString>3.2.5</sparkle:shortVersionString>
+            <pubDate>Tue, 28 Jul 2026 23:51:11 +0900</pubDate>
+            <sparkle:version>341</sparkle:version>
+            <sparkle:shortVersionString>3.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.5/ACEMenuPlus-3.2.5.zip"
-                sparkle:edSignature="Sis61P1f26XPdn1xcttYL6ZQKpIRxBMcTMKe8njrDo+w+jLRMQpYJ/5X3oj/ui2lE90bo6dfuD1C9X5gYvn7Cg=="
-                length="8522966"
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.6/ACEMenuPlus-3.2.6.zip"
+                sparkle:edSignature="X/pBCLg8j8Hh3g4HtAtUzgtBdrE2dl9q6SRiLh9jMxEbo9gNSulhVsm5GByNOqdDDEz3JvE4jfx81oEQOeGjCg=="
+                length="8544530"
                 type="application/octet-stream" />
         </item>
     </channel>
