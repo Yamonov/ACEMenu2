@@ -7,28 +7,32 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
-            <title>Version 3.2.6</title>
+            <title>Version 3.2.7</title>
             <description><![CDATA[
-<h1>Version 3.2.6</h1>
+<h1>Version 3.2.7</h1>
 <h2>日本語</h2>
 <ul>
-  <li>SCRIPTMETAKitを1.2.1にしました。</li>
-  <li>Scripta!の登録フォルダと同期するオプションを追加。ACEMenuPlus側でフォルダ管理をしなくても、スクリプトのアップデートチェックを行えます。</li>
+  <li>SCRIPTMETAKitを1.2.2にしました。動作に変更はありません。</li>
+  <li>メニュー選択時の動作を表示するようにしました。optionやshift動作以外にも、メニュー選択時にアプリを起動したり切り替えたりする動作をポップヘルプで表示できます。環境設定で切り替えできます。</li>
+  <li>フルディスクアクセス登録を楽に行えるよう、環境設定にドラッグ用アイコンを置きました。フルディスクアクセス登録しておけば、Scripta!とスクリプト監視フォルダを同期しているとき、Scripta!でフォルダを変更したときのフォルダアクセス権限確認を無くせます。</li>
+  <li>UIを少しすっきりさせました。</li>
 </ul>
 <h2>English</h2>
 <ul>
-  <li>Updated SCRIPTMETAKit to version 1.2.1.</li>
-  <li>Added an option to synchronize with Scripta!'s registered folders. This allows ACEMenu Plus to check for script updates without managing folders separately.</li>
+  <li>Updated SCRIPTMETAKit to version 1.2.2. There are no behavioral changes.</li>
+  <li>Menu actions are now displayed. In addition to Option and Shift actions, pop-up help can show whether selecting a menu item will launch an app or switch to it. This can be toggled in Settings.</li>
+  <li>Added a draggable app icon to Settings to make granting Full Disk Access easier. When script monitoring folders are synchronized with Scripta!, granting ACEMenuPlus Full Disk Access eliminates folder-access permission prompts after folders are changed in Scripta!.</li>
+  <li>Cleaned up the UI slightly.</li>
 </ul>
 ]]></description>
-            <pubDate>Tue, 28 Jul 2026 23:51:11 +0900</pubDate>
-            <sparkle:version>341</sparkle:version>
-            <sparkle:shortVersionString>3.2.6</sparkle:shortVersionString>
+            <pubDate>Sun, 09 Aug 2026 04:15:59 +0900</pubDate>
+            <sparkle:version>346</sparkle:version>
+            <sparkle:shortVersionString>3.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.6/ACEMenuPlus-3.2.6.zip"
-                sparkle:edSignature="X/pBCLg8j8Hh3g4HtAtUzgtBdrE2dl9q6SRiLh9jMxEbo9gNSulhVsm5GByNOqdDDEz3JvE4jfx81oEQOeGjCg=="
-                length="8544530"
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.7/ACEMenuPlus-3.2.7.zip"
+                sparkle:edSignature="GMRxl1KMCciVp5repO6R52XsukfnChL1QhbPl09FntDyheoruHJ6q4D3tZm7WU85NlJW0cfZ1OH6o2rZ3EXqBw=="
+                length="8602772"
                 type="application/octet-stream" />
         </item>
     </channel>
