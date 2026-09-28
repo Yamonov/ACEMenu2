@@ -7,32 +7,28 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
-            <title>Version 3.2.7</title>
+            <title>Version 3.2.8</title>
             <description><![CDATA[
-<h1>Version 3.2.7</h1>
+<h1>Version 3.2.8</h1>
 <h2>日本語</h2>
 <ul>
-  <li>SCRIPTMETAKitを1.2.2にしました。動作に変更はありません。</li>
-  <li>メニュー選択時の動作を表示するようにしました。optionやshift動作以外にも、メニュー選択時にアプリを起動したり切り替えたりする動作をポップヘルプで表示できます。環境設定で切り替えできます。</li>
-  <li>フルディスクアクセス登録を楽に行えるよう、環境設定にドラッグ用アイコンを置きました。フルディスクアクセス登録しておけば、Scripta!とスクリプト監視フォルダを同期しているとき、Scripta!でフォルダを変更したときのフォルダアクセス権限確認を無くせます。</li>
-  <li>UIを少しすっきりさせました。</li>
+  <li>メニューバー表示を調整</li>
+  <li>SCRIPTMETAKitとSparkleを最新版にアップデート</li>
 </ul>
 <h2>English</h2>
 <ul>
-  <li>Updated SCRIPTMETAKit to version 1.2.2. There are no behavioral changes.</li>
-  <li>Menu actions are now displayed. In addition to Option and Shift actions, pop-up help can show whether selecting a menu item will launch an app or switch to it. This can be toggled in Settings.</li>
-  <li>Added a draggable app icon to Settings to make granting Full Disk Access easier. When script monitoring folders are synchronized with Scripta!, granting ACEMenuPlus Full Disk Access eliminates folder-access permission prompts after folders are changed in Scripta!.</li>
-  <li>Cleaned up the UI slightly.</li>
+  <li>Adjusted the menu bar display.</li>
+  <li>Updated SCRIPTMETAKit and Sparkle to the latest versions.</li>
 </ul>
 ]]></description>
-            <pubDate>Sun, 09 Aug 2026 04:15:59 +0900</pubDate>
-            <sparkle:version>346</sparkle:version>
-            <sparkle:shortVersionString>3.2.7</sparkle:shortVersionString>
+            <pubDate>Mon, 28 Sep 2026 12:03:13 +0900</pubDate>
+            <sparkle:version>348</sparkle:version>
+            <sparkle:shortVersionString>3.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.7/ACEMenuPlus-3.2.7.zip"
-                sparkle:edSignature="GMRxl1KMCciVp5repO6R52XsukfnChL1QhbPl09FntDyheoruHJ6q4D3tZm7WU85NlJW0cfZ1OH6o2rZ3EXqBw=="
-                length="8602772"
+                url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.2.8/ACEMenuPlus-3.2.8.zip"
+                sparkle:edSignature="9JeURSORLo5KZerPXyyZWZXfweVsPhVns9FsU/YmdopuUzjMVFC/N7NcucyDGuMkIKpNIKU6yyd1zsTOxZrPAg=="
+                length="8548371"
                 type="application/octet-stream" />
         </item>
     </channel>
