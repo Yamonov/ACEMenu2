@@ -8,7 +8,7 @@ Plusバージョンから、SCRIPTMETAに対応しました。
 [SCRIPTMETA仕様](https://github.com/Yamonov/SCRIPTMETA))
 
 Latest version　ダウンロードはこちらから（latestページで最新版をDLできます）：
-[Latest](https://github.com/Yamonov/ACEMenu2/releases/tag/v3.0.3)
+[Latest](https://github.com/Yamonov/ACEMenu2/releases/latest)
 
 Illustrator、InDesign、Photoshop統合タブ型スクリプトランチャーの[Scripta!](https://github.com/Yamonov/Scripta) もどうぞ。
 
