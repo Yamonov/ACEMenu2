@@ -7,6 +7,34 @@
         <description>ACEMenu Plus update feed</description>
         <language>ja</language>
         <item>
+            <title>Version 3.4</title>
+            <description xml:lang="en"><![CDATA[
+<h1>Version 3.4</h1>
+<ul>
+  <li>Updated to SCRIPTMETAKit 2.
+    <ul><li>Added support for multilingual v2 metadata tags.</li></ul>
+  </li>
+  <li>Fixed an issue that prevented ACEMenu Plus from accessing some script folders registered in Scripta!</li>
+  <li>Reduced resource usage while ACEMenu Plus runs in the menu bar.</li>
+</ul>
+]]></description>
+            <description xml:lang="ja"><![CDATA[
+<h1>Version 3.4</h1>
+<ul>
+  <li>SCRIPTMETAKit2にバージョンアップしました
+    <ul><li>多言語対応のv2版メタタグに対応しました</li></ul>
+  </li>
+  <li>Scripta!のスクリプトフォルダ連携で、一部のフォルダにアクセスできない不具合を修正</li>
+  <li>メニューバー常駐時のリソースを削減し、さらに静かに動作するようにしました</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 06 Nov 2026 17:07:31 +0900</pubDate>
+            <sparkle:version>387</sparkle:version>
+            <sparkle:shortVersionString>3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Yamonov/ACEMenu2/releases/download/v3.4/ACEMenuPlus-3.4.zip" type="application/octet-stream" sparkle:edSignature="wgd78jlZw0YSUypO5Ym3L75Zm1y8RWGVMJkKwxPqBseffJ0nBaEYTTZdS+SBI73RPOL7WfsqaG8Wul42oJBHBw==" length="9760328"/>
+        </item>
+        <item>
             <title>Version 3.3</title>
             <description xml:lang="en"><![CDATA[
 <h1>Version 3.3</h1>
